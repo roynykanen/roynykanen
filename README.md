@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏼‍🎓 A 25-year-old student from Laurea University of Applied Sciences. <br>🔍 Interested in the continuous development of the IT field.<br>⚡️ Motivated by challenges where I can leverage my creativity and technical skills.<br>🧩 Would like to be a part of projects that involve the design and development of applications or web services.
+👨🏼‍🎓 A 26-year-old student from Laurea University of Applied Sciences. <br>🔍 Interested in the continuous development of the IT field.<br>⚡️ Motivated by challenges where I can leverage my creativity and technical skills.<br>🧩 Would like to be a part of projects that involve the design and development of applications or web services.
 
 
 ## 🌐 Socials:
